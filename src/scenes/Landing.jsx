@@ -84,7 +84,7 @@ const Landing = ({ setSelectedPage }) => {
           
             <section className="rounded-r-sm bg-gradient-rainpurple py-0.5 pr-0.5">
             <div className="bg-deep-blue hover:text-yellow transition duration-500 w-full h-full flex items-center justify-center px-10 font-playfair">
-             <a href="https://www.linkedin.com/in/devanshi-prasad/" target="blank"> Resume</a>
+             <a href="https://drive.google.com/file/d/19omRqn-xCwBpb0umW6AH7_M4QGUXND_V/view?usp=sharing" target="blank"> Resume</a>
             </div>
             </section>
   
