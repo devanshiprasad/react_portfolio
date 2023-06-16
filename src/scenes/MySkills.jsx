@@ -24,8 +24,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+          A third year undergrad in Vellore Institute of Technology, Bhopal, pursuing B.Tech in Computer Science with specialization in Cloud computing and Automation. 
           </p>
         </motion.div>
         
@@ -68,7 +67,7 @@ const MySkills = () => {
                 Languages/Frameworks
               </p>
             </div>
-            <div className="w-1/2 md:w-3/4 h-32 bg-darkpurple absolute right-0 top-0 z-[-1]" />
+            <div className="w-1/2 md:w-3/4 h-32 bg-purple absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
             1.Java <br/> 2.Javascript <br/>3.ReactJS <br/> 4.Python <br/>5.MySQL
@@ -94,7 +93,7 @@ const MySkills = () => {
                 Certifications
               </p>
             </div>
-            <div className="w-1/2 md:w-3/4 h-32 bg-darkpurple absolute right-0 top-0 z-[-1]"
+            <div className="w-1/2 md:w-3/4 h-32 bg-purple absolute right-0 top-0 z-[-1]"
              img src='./' />
           </div>
           <p className="mt-5">
@@ -122,7 +121,7 @@ const MySkills = () => {
                 Additional Skills
               </p>
             </div>
-            <div className="w-1/2 md:w-3/4 h-32 bg-darkpurple absolute right-0 top-0 z-[-1]" />
+            <div className="w-1/2 md:w-3/4 h-32 bg-purple absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
           1. Figma <br/>
