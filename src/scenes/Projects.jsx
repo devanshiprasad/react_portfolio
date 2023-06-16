@@ -76,7 +76,7 @@ const Projects = () => {
               max-w-[1200px] max-h-[1200px] text-2xl font-playfair font-semibold bg-darkpurple" 
 
           >
-            <img src={require("./react.png")}/>
+           <a href="https://github.com/devanshiprasad/react_portfolio" target="blank"> <img src={require("./react.png")}/></a>
            
           </div>
           </a>
