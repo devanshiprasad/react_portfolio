@@ -11,7 +11,9 @@ const SocialMediaIcons = () => {
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
-        href="mailto: devanshiprasad@gmail.com"
+        href="https://mail.google.com/mail/?view=cm&fs=1&to=devanshiprasad@gmail.com
+
+        "
         target="_blank"
         rel="noreferrer"
       >
