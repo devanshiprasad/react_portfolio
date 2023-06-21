@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.af9fbba5.css",
+    "main.js": "/react-portfolio/static/js/main.7a2f8bac.js",
+    "static/media/devanshi.jpg": "/react-portfolio/static/media/devanshi.2508d4b74d57cd87c29d.jpg",
+    "static/media/project-2.png": "/react-portfolio/static/media/project-2.ce8bf13aa5a5e1e0e7bd.png",
+    "static/media/profile-image.png": "/react-portfolio/static/media/profile-image.ac58f74195e832c76304.png",
+    "static/media/footer.png": "/react-portfolio/static/media/footer.247368d56b64187d4638.png",
+    "static/media/react.png": "/react-portfolio/static/media/react.1ba4478f715ab6b9cf0b.png",
+    "static/media/skills-image.png": "/react-portfolio/static/media/skills-image.51e40da64df180a7669a.png",
+    "static/media/banner.png": "/react-portfolio/static/media/banner.97321755dddb31bec257.png",
+    "static/media/purplebrush-removebg-preview.png": "/react-portfolio/static/media/purplebrush-removebg-preview.875c4f71683e92bd5ecf.png",
+    "static/media/brushpink1.png": "/react-portfolio/static/media/brushpink1.1185dc678a9fa1336cd6.png",
+    "static/media/project-1.png": "/react-portfolio/static/media/project-1.c409ca97467b4c1137b7.png",
+    "static/media/purplebrush.png": "/react-portfolio/static/media/purplebrush.7405308a3a0010555494.png",
+    "static/media/person-3.png": "/react-portfolio/static/media/person-3.5dd0b714cfc8d2673b79.png",
+    "static/media/person-2.png": "/react-portfolio/static/media/person-2.6570129d3e8716b40235.png",
+    "static/media/project-3.png": "/react-portfolio/static/media/project-3.442f06af5ad4f690d715.png",
+    "static/media/person-1.png": "/react-portfolio/static/media/person-1.fb6c3796b42f9ad950c7.png",
+    "static/media/github-icon.png": "/react-portfolio/static/media/github-icon.f260637be33e75188227.png",
+    "static/media/brush.png": "/react-portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.af9fbba5.css.map": "/react-portfolio/static/css/main.af9fbba5.css.map",
+    "main.7a2f8bac.js.map": "/react-portfolio/static/js/main.7a2f8bac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9fbba5.css",
+    "static/js/main.7a2f8bac.js"
+  ]
+}
